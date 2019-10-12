@@ -4,7 +4,7 @@ import json
 # APIキーの指定
 apikey = "f2e5fc287fa3addba5e9ef8d5ed7f2fb"
 
-# 天気を調べたい都市の一覧
+# 天気を調べたい都市の一覧 
 cities = ["Saitama,JP", "London,UK", "New York,US"]
 # APIのひな型
 api = "http://api.openweathermap.org/data/2.5/weather?q={city}&APPID={key}"
